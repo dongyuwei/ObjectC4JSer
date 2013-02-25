@@ -5,6 +5,6 @@ Objective-C for JavaScript programmer
 
 ref:
 
-1. jsTalk
-2. jscocoa
-3. jsbindings
+1. [jstalk](http://jstalk.org/)
+2. [jscocoa](https://github.com/parmanoir/jscocoa)
+3. [jsbindings](https://github.com/zynga/jsbindings)
