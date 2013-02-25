@@ -1,7 +1,7 @@
-ObjectiveC4JSer
+ObjectC4JSer
 ===============
 
-Objective-C for JavaScript programmer
+Object-C for JavaScript programmer
 
 ref:
 
